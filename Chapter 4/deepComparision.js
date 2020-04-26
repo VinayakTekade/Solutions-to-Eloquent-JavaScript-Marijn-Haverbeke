@@ -1,5 +1,5 @@
 // Solution to Chapter 4: Data Structures: 
-// Exercise: A list
+// Exercise: Deep Comparision
 
 
 const deepEqual = (obj1, obj2) => {
